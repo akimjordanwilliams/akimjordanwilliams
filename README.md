@@ -5,7 +5,7 @@ Data scientist / ML engineer focused on **computer vision, vision-language model
 - 🔭 Currently working on **AV safety event detection** with YOLO + VLM-based triage
 - 🧠 Interests: computer vision, LLM/VLM prompting & evaluation, sports & marketing analytics
 - 🛠️ Tools: Python, PyTorch/Ultralytics, OpenCV, pandas, DuckDB, SQL, Jupyter
-- 📫 Reach me: **[your email]** · [LinkedIn](https://www.linkedin.com/in/your-handle)
+- 📫 Reach me: **akimjordanwilliams@gmail.com** · [LinkedIn](https://www.linkedin.com/in/akimwilliams/)
 
 ---
 
